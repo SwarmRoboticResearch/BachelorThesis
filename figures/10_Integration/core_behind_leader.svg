@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="459.40961"
+   height="372.0596"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="core_behind_leader.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3376-6"
+       id="pattern3870"
+       patternTransform="matrix(-0.09806956,-0.05999988,-0.02335097,0.05885341,400.21271,162.97292)" />
+    <pattern
+       id="pattern12415-1-5-1-3-4"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-28">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-64"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-67"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6335">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6337" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6339"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6341" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6327">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6329" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6331"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6333" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-8">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-4" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-7"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-5" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker6319"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6321" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-01"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-59" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-6-9"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-0-4">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-5-7"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-3-9"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6201">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6203" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6205"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6207" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6193">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6195" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6197"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6199" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-2-8">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-0-9" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-5-78"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-6-7" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker6185"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6187" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-56"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-89" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-6-30"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-0-6">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-5-0"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-3-6"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6067">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6069" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6071"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6073" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter6059">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence6061" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap6063"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite6065" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-2-0">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-0-6" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-5-7"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-6-6" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker6051"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6053" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-6" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-5"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-7">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-8"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-4"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4139">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4141" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4143"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4145" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4131">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4133" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4135"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4137" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-3">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-6" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-1"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-6" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker4123"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4125" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4119"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4121" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-8"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-7">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-7"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-6"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.12177991,-0.05999988,0.02899655,0.05885341,263.00371,-67.474091)"
+       id="pattern14612-5-5-3"
+       xlink:href="#pattern12415-1-5-1-3-8"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14612-5-5-3"
+       id="pattern14661-4-2"
+       patternTransform="matrix(0.24355982,-0.11999976,0.0579931,0.11770682,-276.43125,-335.49147)" />
+    <pattern
+       patternTransform="matrix(0.12177991,-0.05999988,0.02899655,0.05885341,256.21262,107.32922)"
+       id="pattern14760-7-2"
+       xlink:href="#pattern14661-4-2"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14760-7-2"
+       id="pattern3247-4"
+       patternTransform="matrix(-0.06334645,-0.03121023,-0.01508318,0.03061387,1124.3389,156.21231)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4103">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4105" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4107"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4109" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4095">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4097" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4099"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4101" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-57">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-5" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-41"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-32" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker4087"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4089" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4083"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4085" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-6-3"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-0-8">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-5-2"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-3-1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.12177991,-0.05999988,0.02899655,0.05885341,263.00371,-67.474091)"
+       id="pattern14612-5-5-5-7"
+       xlink:href="#pattern12415-1-5-1-3-6-3"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14612-5-5-5-7"
+       id="pattern14661-4-6-9"
+       patternTransform="matrix(0.24355982,-0.11999976,0.0579931,0.11770682,-276.43125,-335.49147)" />
+    <pattern
+       patternTransform="matrix(0.12177991,-0.05999988,0.02899655,0.05885341,256.21262,107.32922)"
+       id="pattern14760-7-7-6"
+       xlink:href="#pattern14661-4-6-9"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14760-7-7-6"
+       id="pattern3247-7-1"
+       patternTransform="matrix(0.12177991,-0.05999988,0.02899655,0.05885341,241.92691,330.18636)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3247-7-1"
+       id="pattern3376-6"
+       patternTransform="matrix(-0.10577109,-0.05999988,-0.02518475,0.05885341,1488.5228,1496.8237)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4066">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4068" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4070"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4072" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter4058">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence4060" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap4062"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite4064" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-2-2">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-0-4" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-5-1"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-6-0" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker4050"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4052" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-67"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-5" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-3"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-5">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-45"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-4"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3888">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3890" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3892"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3894" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3880">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3882" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3884"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3886" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-6">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-3" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-6"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-5" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker3872"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3874" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-35" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-5"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-2">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-6"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3630">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3632" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3634"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3636" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3622">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3624" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3626"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3628" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-5">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-7" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-4"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-3" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker3614"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3616" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-23" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3-6"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8-0">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7-5"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3350">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3352" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3354"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3356" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3342">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3344" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3346"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3348" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9-2">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1-0" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0-5"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7-6" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker3334"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3336" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-3" />
+    </marker>
+    <pattern
+       id="pattern12415-1-5-1-3"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4-8">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4-7"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7-6"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3222">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3224" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3226"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3228" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter3214">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence3216" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap3218"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite3220" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734-9">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736-1" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738-0"
+         yChannelSelector="A" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740-7" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="marker3206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3208" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-88" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-11"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path12749" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       inkscape:menu="Distort"
+       inkscape:label="Torn edges"
+       id="filter14734">
+      <feTurbulence
+         seed="1"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="6"
+         baseFrequency="0.0080000000000000002"
+         id="feTurbulence14736" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         in2="result91"
+         id="feDisplacementMap14738" />
+      <feComposite
+         operator="atop"
+         in="SourceGraphic"
+         in2="result5"
+         id="feComposite14740" />
+    </filter>
+    <pattern
+       id="pattern12415-1-5-1"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8-4">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7-4"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7-7"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern12415-1-5"
+       patternTransform="translate(327.28943,443.2402)"
+       height="113.13708"
+       width="763.67529"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(-327.28943,-443.2402)"
+         id="g12411-2-8">
+        <rect
+           ry="0"
+           y="443.2402"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-9-7"
+           style="fill:#ffb401;fill-opacity:1;stroke:none" />
+        <rect
+           ry="0"
+           y="499.80875"
+           x="327.28943"
+           height="56.568542"
+           width="763.67529"
+           id="rect12391-1-7-7"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.95985307,-0.5804117,0.06006027,0.09932439,244.29679,395.14275)"
+       id="pattern12422-4-0"
+       xlink:href="#pattern12415-1-5"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="257.52775"
+     inkscape:cy="241.57565"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1057"
+     inkscape:window-x="1600"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-135.29286,-149.50534)">
+    <path
+       sodipodi:nodetypes="acaca"
+       inkscape:connector-curvature="0"
+       id="path14084-9-4-5-7-1"
+       d="m 473.71628,314.73986 c 4.3001,64.4849 -87.6619,110.2025 -146.483,112.5103 -37.61449,-3.6867 -80.5106,-54.5641 -80.76029,-98.3568 -0.24385,-42.7727 16.19897,-98.181 77.77762,-97.1047 36.61498,8.3766 145.44622,22.6756 149.46567,82.9512 z"
+       style="fill:url(#pattern3870);fill-opacity:1;stroke:none" />
+    <g
+       inkscape:transform-center-y="-64.285714"
+       inkscape:transform-center-x="-32.85714"
+       id="g12524-0-7-5-1-2-3"
+       transform="matrix(-0.23061972,0,0,0.23061972,598.40126,100.37872)"
+       style="stroke-width:10.84035683;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter14734-9-2-2)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12504-0-4-7-2-0-8"
+         d="m 414.16254,981.6515 58.58885,-58.58884"
+         style="fill:none;stroke:#000000;stroke-width:10.84035683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12504-2-3-8-9-0-2-2"
+         d="m 414.16254,923.06265 58.58884,58.58885"
+         style="fill:none;stroke:#000000;stroke-width:10.84035683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="aaaaaca"
+       inkscape:connector-curvature="0"
+       id="path14084-8-8-6-5"
+       d="m 0.29838581,2205.8218 c -8.10139001,12.624 -7.33230001,31.9142 0,45 C 39.531299,2320.8397 126.2167,2387.9907 205.65554,2376.5361 c 54.6423,-7.8791 91.2348,-71.3366 111.07144,-122.8572 5.38966,-13.9983 6.40179,-31.4347 0,-45 -21.25962,-45.0488 -25.95074,-97.9334 -115.35716,-95 -79.95429,2.5282 -161.252401,30.0944 -201.07143419,92.1429 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14734-9-2-2)"
+       transform="matrix(-1,0,0,1,522.82969,-1910.1554)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Lend)"
+       d="m 520.65996,315.70826 71.3617,0.1708"
+       id="path12722-7-5-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
