@@ -15,4 +15,11 @@ ing of the swarm algorithms by its extensive visual analysis capabilities.
 *This thesis was made with the time constraint of three months and thus is not perfect. However, it builds the fundament of further research. E.g. there will be a paper at the EuroCG2015 that uses methods from this thesis but also eliminates some shortcomings of it.*
 
 
+Errata
+---------
+- Robots hidden by hidden robots can create some really nasty degenerated cases. This has been ignored in this thesis.
+- For the boundary force we forgot to devide the two neighbor positions by two. This is only a constant scaling factor and thus does not change the results. However, as this harms the definition of the middle point of the two neighbors, we didn't want to let this unmentioned.
+- Some transpose ($^t$) might have been forgotten.
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Distributed, scalable algorithmic methods for swarms with multiple leader robots</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">M. Ernestus and D. Krupke</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
